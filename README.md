@@ -1,3 +1,3 @@
-# EFFECTING-HEART-DISEASE-AND-DIABETES-FOR-PREDICTING-COVID-19-
+# effective heart disease and diabetes for predicting covid 19
 
 
