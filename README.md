@@ -27,5 +27,7 @@ step 10: after you enter this data, click submit button.
 
 step 11: you will get the result whether you have diabetes or not.
 
-step 12: if you get both the result as positive, you can easily affected by covid 19.
+step 12: Then come back and see, third button “ covid prediction “, will be there , click the button and enter into the page . there you have to enter the results of both heart and diabetes result.
+
+step 13: after submitting the results , you will get the alert message according to your result.
 
